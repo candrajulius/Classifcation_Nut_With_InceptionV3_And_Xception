@@ -1,4 +1,4 @@
-# Classifcation_Nut_With_InceptionV3_And_Xception
+# Classifcation Beans With Inception and Xception Architectures(Mengklasifikasi Kacangn Dengan Arsitektur Inception dan Xception)
 Membuat sebuah klasifikasi kacangn dengan CNN menggunakan arsitektur InceptionV3 dan Xception
 
 # Business Understanding
